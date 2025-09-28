@@ -1,4 +1,5 @@
 
+
 import FAQ from "../component/Faq.Jsx";
 import Footer from "../component/Footer";
 
@@ -32,7 +33,7 @@ function Home() {
         
       </div>
       <GetInTouch></GetInTouch>
-   <FAQ></FAQ>
+<FAQ></FAQ>
 <Footer></Footer>
     </div>
   );
