@@ -24,7 +24,7 @@ const faqData = [
   },
 ];
 
-function FAQ() {
+function Faq() {
   const [openIndex, setOpenIndex] = useState(null);
 
   const toggleAccordion = (index) => {
@@ -71,4 +71,4 @@ function FAQ() {
   );
 }
 
-export default FAQ;
+export default Faq;
